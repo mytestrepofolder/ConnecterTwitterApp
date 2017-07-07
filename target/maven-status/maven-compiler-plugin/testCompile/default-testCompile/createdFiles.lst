@@ -1,0 +1,4 @@
+com\sytac\twitter\utils\test\TwitterCommonUtilsTest.class
+com\sytac\twitter\model\test\TwitterUserTest.class
+com\sytac\twitter\model\test\TwittTest.class
+com\sytac\twitter\controller\test\TwitterAppTest.class
